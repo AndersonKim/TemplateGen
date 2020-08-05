@@ -1,0 +1,3 @@
+读取模板后根据模板生成指定的代码
+1.根据excle中的数据生成指定的js代码，GenCodeBaseExcle
+2.根据excle中的数据生成指定的jsp代码，GenFileBaseOnTemplate
